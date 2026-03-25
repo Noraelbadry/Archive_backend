@@ -1,5 +1,5 @@
 ## ARchive Backend
-AI-Powered Interactive Digital Museum — FastAPI + MySQL
+AI-Powered Interactive Digital Museum — FastAPI + PostgreSQL
 
 ## Setup
 1. Create virtual environment: python -m venv venv
